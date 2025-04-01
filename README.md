@@ -1,2 +1,2 @@
 # sales_performance_dashboard_using-powerbi
-A comprehensive Power BI dashboard for tracking and analyzing sales metrics across regions, categories, and time periods. This dashboard provides actionable insights on sales performance, profit trends, and inventory management
+![Screenshot 2025-03-31 163855](https://github.com/user-attachments/assets/18642ed4-5a59-4a6d-94c8-886e7b3b6a08)
